@@ -1,0 +1,43 @@
+
+.giannis{
+    height: 100vh;
+    background-image: url('https://imageio.forbes.com/specials-images/imageserve/1204249731/Milwaukee-Bucks-v-New-Orleans-Pelicans-NBA/960x0.jpg?format=jpg&width=960');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    display: flex;
+    align-items: last baseline;
+    background-attachment: fixed;
+}
+.giannis-text{
+    color: white;
+    background-color: black;
+    margin: 0px;
+}
+.curry{
+    height: 100vh;
+    background-image: url('https://phantom-marca.unidadeditorial.es/a7dd250f33d4339748793c2d2fbc430b/resize/720/f/webp/assets/multimedia/imagenes/2023/04/04/16806147115600.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    display: flex;
+    align-items: last baseline;
+    background-attachment: fixed;
+}
+.curry-text{
+    color: white;
+    background-color: black;
+    margin: 0px;
+}
+.lebron{
+    height: 100vh;
+    background-image:url('https://img.olympicchannel.com/images/image/private/t_s_w730/t_s_16_9_g_auto/f_auto/primary/c5r52rbifxn2srhp9no0');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    display: flex;
+    align-items: last baseline;
+    background-attachment: fixed;
+}
+.lebron-text{
+    color: white;
+    background-color: black;
+    margin: 0px;
+}
