@@ -12,6 +12,7 @@
     color: white;
     background-color: black;
     margin: 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .curry{
     height: 100vh;
@@ -26,6 +27,7 @@
     color: white;
     background-color: black;
     margin: 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .lebron{
     height: 100vh;
@@ -40,4 +42,5 @@
     color: white;
     background-color: black;
     margin: 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
